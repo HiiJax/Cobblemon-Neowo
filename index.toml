@@ -102,6 +102,11 @@ hash = "c9aca350959a8936b054c7164fb55d789ab1e0d38cff2af48b78f70af2bc0c6d"
 metafile = true
 
 [[files]]
+file = "mods/bl4cks-sit.pw.toml"
+hash = "70c9b1717eeb973a2c60ef839bf29f5c04b6b666ba47bb8d94c648103ad05a4d"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "ebccb6f0127b85a81d062373907408a47865de383b8e4f61c9a9ef3e8b31decd"
 metafile = true
@@ -262,6 +267,11 @@ hash = "0033c5a00c46d5d7b6cf77b19fa76ce5c78a613f3128dcadb3588fa5841ae489"
 metafile = true
 
 [[files]]
+file = "mods/leashedplayer.pw.toml"
+hash = "5a06073a04e7e009a9ac01ae1bf1033972d2672bb6b7c933fc16af9a6aff9b5f"
+metafile = true
+
+[[files]]
 file = "mods/lighty.pw.toml"
 hash = "5ce96ac040fca257f41959be41ad80ba790102dc91cccd8c09e81eed19fa6478"
 metafile = true
@@ -294,6 +304,11 @@ metafile = true
 [[files]]
 file = "mods/moreculling.pw.toml"
 hash = "d66254b3b987c63e832d3c7a1cbbf1365bcb3b275d3c39be79e2b8abf6ead36f"
+metafile = true
+
+[[files]]
+file = "mods/mutant-monsters.pw.toml"
+hash = "caa3e2282daef2c96ca71b329e07453d904aa338026e274c362432512b0129ca"
 metafile = true
 
 [[files]]
@@ -414,6 +429,11 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "da7ee99189ad35aac094919fe33cac647d98533b23c228f10d4811f08989e2b8"
+metafile = true
+
+[[files]]
+file = "mods/the-undergarden.pw.toml"
+hash = "9b3b215e7962ed1095dc97a8612a8eb972cdf18a987891e4ca3ef673a9d023cd"
 metafile = true
 
 [[files]]
