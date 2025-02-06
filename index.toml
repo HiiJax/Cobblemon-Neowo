@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE"
+hash = "7ffe1954587c77dfba1cf8eb9b2ea743671fa6e63f9e7a2f258119d42e14eefe"
+
+[[files]]
 file = "config/paxi/datapacks/cobblemon-additions.pw.toml"
 hash = "07203a54b6c02483b20fcce133694ce4b36fd0b498d7335a47ec08099c1564e1"
 metafile = true
@@ -68,8 +72,8 @@ hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
 metafile = true
 
 [[files]]
-file = "mods/atlas-lib.pw.toml"
-hash = "57d314558add15212267a2a73439def174a8d8179e3cbd6abf8926f23fbca2e5"
+file = "mods/azurelib.pw.toml"
+hash = "70519c5807810bedb4916bb37b6f869db2309b3405b3fabc71190d6a2ae3515d"
 metafile = true
 
 [[files]]
@@ -278,8 +282,8 @@ hash = "8a8b69f0618818ac0476ccdfbfc4a04307382962a8f37b2e99df0e3c94f7732f"
 metafile = true
 
 [[files]]
-file = "mods/modern-industrialization.pw.toml"
-hash = "c7448ed094e63054aa96d9712811ecb39eeaf4956156d998d71f8e224915b5f2"
+file = "mods/mobs-of-mythology.pw.toml"
+hash = "e51948a038d2b781425c9b405cf0505da41770312d7bd51378357886c95510a1"
 metafile = true
 
 [[files]]
@@ -363,6 +367,11 @@ hash = "18a8e2fb290df026bdb8a1022c5209afc851cddf9253631d179bf4c225b120f7"
 metafile = true
 
 [[files]]
+file = "mods/smartbrainlib.pw.toml"
+hash = "ef3251044a28b2a4124c4f1b7b7a740845afc25d9c94ecab5851bc70aa503c89"
+metafile = true
+
+[[files]]
 file = "mods/sodium-dynamic-lights.pw.toml"
 hash = "c1e526d3d17cb3563e596d45c7567ed1fe60c31bdc3457f7a747ef8150bd3c1b"
 metafile = true
@@ -405,11 +414,6 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "da7ee99189ad35aac094919fe33cac647d98533b23c228f10d4811f08989e2b8"
-metafile = true
-
-[[files]]
-file = "mods/the-hordes.pw.toml"
-hash = "e3e77fe3d58e09558a7b3c12e2a00dc6757734a3035fc277293632f581af308b"
 metafile = true
 
 [[files]]
