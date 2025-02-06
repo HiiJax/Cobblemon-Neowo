@@ -322,11 +322,6 @@ hash = "8a8b69f0618818ac0476ccdfbfc4a04307382962a8f37b2e99df0e3c94f7732f"
 metafile = true
 
 [[files]]
-file = "mods/mobs-of-mythology.pw.toml"
-hash = "e51948a038d2b781425c9b405cf0505da41770312d7bd51378357886c95510a1"
-metafile = true
-
-[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "734da85a1770ed0489132d97ce86130c5dc1ae1800d5802d5ecb07f44e15468b"
 metafile = true
@@ -429,11 +424,6 @@ metafile = true
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "18a8e2fb290df026bdb8a1022c5209afc851cddf9253631d179bf4c225b120f7"
-metafile = true
-
-[[files]]
-file = "mods/smartbrainlib.pw.toml"
-hash = "ef3251044a28b2a4124c4f1b7b7a740845afc25d9c94ecab5851bc70aa503c89"
 metafile = true
 
 [[files]]
