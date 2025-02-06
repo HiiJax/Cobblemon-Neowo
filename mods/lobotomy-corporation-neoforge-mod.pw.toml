@@ -1,0 +1,13 @@
+name = "Lobotomy Corporation Neoforge Mod"
+filename = "lobotomycorporation-1.0.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HSUnGqv9/versions/jXkhlFJQ/lobotomycorporation-1.0.0-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "968819faccedcf5790ea326f0a42a5e761552ccb0c17690f9a0d1e20b88be7e5a7091df53d2af909ad4cef3dff966f652b4d5005c10515351f5230f5495a13ae"
+
+[update]
+[update.modrinth]
+mod-id = "HSUnGqv9"
+version = "jXkhlFJQ"
