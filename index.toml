@@ -107,6 +107,11 @@ hash = "70c9b1717eeb973a2c60ef839bf29f5c04b6b666ba47bb8d94c648103ad05a4d"
 metafile = true
 
 [[files]]
+file = "mods/blood-moon.pw.toml"
+hash = "c921c844b58e12b33cf00e5006061aa8234f9d2b731280e58a56d72ba7718b5a"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "ebccb6f0127b85a81d062373907408a47865de383b8e4f61c9a9ef3e8b31decd"
 metafile = true
@@ -124,6 +129,16 @@ metafile = true
 [[files]]
 file = "mods/cobblemon-fight-or-flight-reborn.pw.toml"
 hash = "23ff347565f4c5fc434d4be43ee2799310e7f7cc7c6d0334fec71456f37ed812"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-integrations.pw.toml"
+hash = "0fd4be22c961f9cc8e0b8fee8b609b070ace34b7f63e18b02297ae214c4e798a"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-size-variations.pw.toml"
+hash = "9ddf4920ea1909e3f19b3c1bdb6c8359e165f97f3e433681a60038bf3f1b9904"
 metafile = true
 
 [[files]]
@@ -149,6 +164,11 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "e7ab61139edaca7ebf16131d8292a257e45b3dc1b027234ce2b4f0f27f850004"
+metafile = true
+
+[[files]]
+file = "mods/corgilib.pw.toml"
+hash = "7f657c9071754b89ccfa3b138c33e73fb8414384b6c442396a951a6ad97e4956"
 metafile = true
 
 [[files]]
@@ -184,6 +204,11 @@ metafile = true
 [[files]]
 file = "mods/enderman-overhaul.pw.toml"
 hash = "8efa1757432143004e1958e70f01139ed350e85c9d5842346d30ec32231636de"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-celestials.pw.toml"
+hash = "8bbe7d61a5e513ddb017e2269f624fae69b4596289fa7d32e7701ab1896603dd"
 metafile = true
 
 [[files]]
@@ -224,6 +249,11 @@ metafile = true
 [[files]]
 file = "mods/geophilic.pw.toml"
 hash = "643b6f675134f2b2dcf7601cf895a83dbb9ad56b1433e603ba36c8c1fc6c94bf"
+metafile = true
+
+[[files]]
+file = "mods/glitchcore.pw.toml"
+hash = "dbd756dd9bb17e6ecebcf2d7052a67a2da1c7dd378bc2089bc154916080fe031"
 metafile = true
 
 [[files]]
@@ -302,6 +332,16 @@ hash = "734da85a1770ed0489132d97ce86130c5dc1ae1800d5802d5ecb07f44e15468b"
 metafile = true
 
 [[files]]
+file = "mods/monolib.pw.toml"
+hash = "662a1d71f073d094dac04ea64e46d950b4f2975f69763a4844fad20d28167f26"
+metafile = true
+
+[[files]]
+file = "mods/more-useful-copper.pw.toml"
+hash = "62f2807b9c5887e6ac1adbdb9c818303c029ebefdff5ae2545ea9308e44dfa3c"
+metafile = true
+
+[[files]]
 file = "mods/moreculling.pw.toml"
 hash = "d66254b3b987c63e832d3c7a1cbbf1365bcb3b275d3c39be79e2b8abf6ead36f"
 metafile = true
@@ -319,6 +359,11 @@ metafile = true
 [[files]]
 file = "mods/noisium.pw.toml"
 hash = "d424a9260ef51bc102e56f0423d91dfabb739ccca8a86eb1c450ea631b739280"
+metafile = true
+
+[[files]]
+file = "mods/nullscape.pw.toml"
+hash = "23f4322551960ed5fa21fae987c1a8c4ba5b154ad4cca697dae79b64749869ff"
 metafile = true
 
 [[files]]
@@ -374,6 +419,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
+metafile = true
+
+[[files]]
+file = "mods/serene-seasons.pw.toml"
+hash = "8ecf8834587e6637a2a29a8d72ab207f6472803484c84ed4553e408771e99a44"
 metafile = true
 
 [[files]]
@@ -439,6 +489,11 @@ metafile = true
 [[files]]
 file = "mods/titanium.pw.toml"
 hash = "ebdef9175f88e077b477bc7d06ce58450e5c00cf19e905ae373b0a8399f9dbef"
+metafile = true
+
+[[files]]
+file = "mods/undead-nights.pw.toml"
+hash = "3dd258db54d4823cba51022437fcc1bf2ac672b14cd15a26e125fd3a690bc8dd"
 metafile = true
 
 [[files]]
