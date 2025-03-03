@@ -1,7 +1,13 @@
 name = "Figura"
-filename = "figura-0.1.5-rc.6+1.21.1-neoforge-mc.jar"
+filename = "figura-0.1.5+1.21.1-neoforge-mc.jar"
+side = "client"
 
 [download]
-url = "https://github.com/FiguraMC/Figura/releases/download/0.1.5-rc.6/figura-0.1.5-rc.6+1.21.1-neoforge-mc.jar"
-hash-format = "sha256"
-hash = "c8616c25c9da24997536bc8eb26da8cdd668aef7933d4db79ec8967a8d35a514"
+url = "https://cdn.modrinth.com/data/s9gIPDom/versions/yXFi1fed/figura-0.1.5%2B1.21.1-neoforge-mc.jar"
+hash-format = "sha512"
+hash = "f8bb72be36f5f2a85d0abd8152cd262244b7f04a65da18cc714fee20a997a63a1c47beab3477851715b70da791fec68e4527ed44983edb121953d436a8f4de89"
+
+[update]
+[update.modrinth]
+mod-id = "s9gIPDom"
+version = "yXFi1fed"
