@@ -1,13 +1,13 @@
 name = "InvMove"
-filename = "InvMove-0.9.0+1.21.1-NeoForge.jar"
+filename = "InvMove-1.21-0.8.8-NeoForge.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/REfW2AEX/versions/aKvh9sK2/InvMove-0.9.0%2B1.21.1-NeoForge.jar"
+url = "https://cdn.modrinth.com/data/REfW2AEX/versions/ciO3M5kB/InvMove-1.21-0.8.8-NeoForge.jar"
 hash-format = "sha512"
-hash = "e0af2efd42d7a1428936310a96b31670e713e4ca18999af85f8a91d4694ea3f7ee1fae0082de44f0985e343e653698ce61e8284b2bd883642f1ed9c2933cd30f"
+hash = "d703b023ee08bea094581bf0e1f7ac4fc508d4518acf70f32f6a8eee97ea2e8f803249ffc460beb6875432aa42afd22c4b4da865ecae2c095cbd860f4e4525e5"
 
 [update]
 [update.modrinth]
 mod-id = "REfW2AEX"
-version = "aKvh9sK2"
+version = "ciO3M5kB"
