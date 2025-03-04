@@ -1,7 +1,0 @@
-name = "Figura"
-filename = "figura-0.1.5-rc.6+1.21.1-neoforge-mc.jar"
-
-[download]
-url = "https://github.com/FiguraMC/Figura/releases/download/0.1.5-rc.6/figura-0.1.5-rc.6+1.21.1-neoforge-mc.jar"
-hash-format = "sha256"
-hash = "c8616c25c9da24997536bc8eb26da8cdd668aef7933d4db79ec8967a8d35a514"
