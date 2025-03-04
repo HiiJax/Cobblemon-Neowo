@@ -295,6 +295,10 @@ hash = "05d96d5b17399f048469ff4b44451eb8d99cc7a2a075ff55718c397cb508b0c2"
 metafile = true
 
 [[files]]
+file = "mods/figura-0.1.5+1.21.1-neoforge-mc.jar"
+hash = "a2e4e58d2aabc5a3352ef605155f92eb7d617419e24d651806d748f4b5cde3bc"
+
+[[files]]
 file = "mods/findme.pw.toml"
 hash = "9c546c28d6a8094e65c522e7b6c7498905c3d1933c253481b09470f7b516a366"
 metafile = true
