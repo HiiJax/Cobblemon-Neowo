@@ -65,11 +65,6 @@ file = "configureddefaults/options.txt"
 hash = "8a36175826289b60d9e454ff730eeed15ce23f7e59dd684bd59301ff128a9400"
 
 [[files]]
-file = "mods/3dskinlayers.pw.toml"
-hash = "8a9a92db01486e4f8d3a7370a6cbf6e59a12d1ef15c24b375ebce75500e78afc"
-metafile = true
-
-[[files]]
 file = "mods/ae2.pw.toml"
 hash = "d68190d63a0cef38d5d95aac2fe0ee5d31a7b43f195da073589c5291583171ff"
 metafile = true
@@ -295,7 +290,7 @@ hash = "05d96d5b17399f048469ff4b44451eb8d99cc7a2a075ff55718c397cb508b0c2"
 metafile = true
 
 [[files]]
-file = "mods/figura-0.1.5+1.21.1-neoforge-mc.jar"
+file = "mods/figura-0.1.5+1.21.1-neoforge-patched.jar"
 hash = "a2e4e58d2aabc5a3352ef605155f92eb7d617419e24d651806d748f4b5cde3bc"
 
 [[files]]
@@ -336,11 +331,6 @@ metafile = true
 [[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "d73e856c660731a0a33a537299ce51a359d39a64daac6b4c5cdfa189c21a09fa"
-metafile = true
-
-[[files]]
-file = "mods/immediatelyfast.pw.toml"
-hash = "4c6d9e09a9cb4dbd1cae6a962da9a5838eab21a3cf8514784359d6ae0dc13199"
 metafile = true
 
 [[files]]
@@ -550,7 +540,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "347cac2ed12c9bc0561b6a59eeb4c121b10e5f3f71d54e9bf8d1343af57ef5b8"
+hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
 metafile = true
 
 [[files]]
